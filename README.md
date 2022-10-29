@@ -3,9 +3,10 @@ Fanuc Parameter compare difference after two converted CSV formated files.
 
 Version. 2022.10.28
 
-Using PYTHON3 language to open the two converted CSV files at FANUC controller system of parameter backup for difference.
-Please prepare two any ".CSV" documents in somewhere.
-It will output CSV and EXCEL files for studying in a formatted data about difference line for reference.
+Using PYTHON3 language and Qt5 GUI to build this small tool.
+It may open the two converted CSV files from FANUC controller system of parameter backup for comparing difference.
+To run this program, please prepare two any ".CSV" similar text documents in somewhere for loading.
+It will output CSV and EXCEL files for studying in a formatted data about difference lines for reference.
 
  ****************************************************************
  If this small code is helping any needed case, it can donate
