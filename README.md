@@ -1,7 +1,7 @@
 # FanucParameterCompare
 Fanuc Parameter compare difference after two converted CSV formated files.
 
-Version. 2022.10.28
+Version. 2022.11.02-1
 
 Using PYTHON3 language and Qt5 GUI to build this small tool.
 It may open the two converted CSV files from FANUC controller system of parameter backup for comparing difference.
